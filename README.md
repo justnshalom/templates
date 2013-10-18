@@ -1,9 +1,4 @@
 templates
 =========
 
-My quick, dirty templates for prototyping. Currently, there are two branches:
- - html5
- - bootstrap3
-
-
-
+Use README.md on the [master branch](https://github.com/tinc2k/templates/blob/master/README.md).
